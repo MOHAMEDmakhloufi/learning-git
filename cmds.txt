@@ -1,0 +1,8 @@
+**Initialising Git Repository**	
+	working Directory TO git repository  
+		--> git init .
+	you can remove that 
+		--> rm -rf .git
+**git add**
+	to remove file you have just added :
+		--> git rm --cached index.html 
