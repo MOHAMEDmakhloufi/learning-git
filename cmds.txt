@@ -6,3 +6,4 @@
 **git add**
 	to remove file you have just added :
 		--> git rm --cached index.html 
+		--> git rm -r --cached .
